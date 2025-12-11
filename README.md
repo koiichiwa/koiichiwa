@@ -10,5 +10,5 @@ full time artist, free time programmer
 
 · · ─ ·✶· ─ · ·
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koiichiwa&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=koiichiwa&layout=compact)
 
